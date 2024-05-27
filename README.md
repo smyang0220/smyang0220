@@ -1,4 +1,4 @@
-## 🛠 기술 스택
+## Tech Stack
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
