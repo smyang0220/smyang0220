@@ -2,7 +2,7 @@
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
-<a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/AndroidStudio-#3DDC84?style=flat-square&logoAndroidStudio&logoColor=white"/></a>
+<a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logoAndroidStudio&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=Vue&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
