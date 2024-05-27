@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 
 <!--
 **smyang0220/smyang0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
