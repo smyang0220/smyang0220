@@ -1,7 +1,7 @@
 ## 🛠 기술 스택
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=Android&logoColor=white"/></a>
-<a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/apple-000000?style=flat-square&logo=IOS&logoColor=white"/></a>
-<a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
+<a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
+<a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
