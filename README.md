@@ -11,7 +11,7 @@
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 </div>
 <div align="start">
-    <a href="https://developer.apple.com/kr/swift/" style="margin-right: 10px;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+    <a href="https://developer.apple.com/kr/swift/" style="margin-right: 210px;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
     <a href="https://developer.apple.com/kr/swift/" style="margin-right: 10px;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
     <a href="https://developer.apple.com/kr/swift/" style="margin-right: 10px;"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
     <a href="https://developer.apple.com/kr/swift/" style="margin-right: 10px;"><img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=Gerrit&logoColor=white"/></a>
