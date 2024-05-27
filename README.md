@@ -28,14 +28,9 @@
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
-<div align="center>
 <a href="https://100percent-me.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tstory&logoColor=white"/></a>
 <a href="https://www.instagram.com/sheep._.hy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:smyang0220@gmail.com">
-    <img
-      src="https://img.shields.io/badge/smyang0220@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-</div>
+<a href="mailto:smyang0220@gmail.com"><img src="https://img.shields.io/badge/smyang0220@gmail.comEA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ![Heetae's GitHub stats](https://github-readme-stats.vercel.app/api?username=smyang0220&show_icons=true&theme=radical)
 
