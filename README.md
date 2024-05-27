@@ -14,7 +14,12 @@
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
+<br>
 
+## Blog & SNS
+
+<a href="https://100percent-me.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tstory&logoColor=white"/></a>
+<a href="https://www.instagram.com/sheep._.hy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <!--
 **smyang0220/smyang0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
