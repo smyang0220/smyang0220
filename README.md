@@ -5,6 +5,7 @@
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logoAndroidStudio&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=Vue&logoColor=white"/></a>
+</n>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=Gerrit&logoColor=white"/></a>
