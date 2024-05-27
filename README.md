@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Mobile%20Developer&fontSize=90" />
 
-## ✨ Tech Stack ✨
+## Tech Stack
 <div align="start">
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
@@ -21,7 +21,7 @@
 </div>
 <br>
 
-## 📫 Contact 📫
+## Contact
 <div align="start">
 <a href="https://100percent-me.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tstory&logoColor=white"/></a>
 <a href="https://www.instagram.com/sheep._.hy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
