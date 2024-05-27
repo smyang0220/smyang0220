@@ -33,7 +33,7 @@
 <a href="https://www.instagram.com/sheep._.hy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:smyang0220@gmail.com">
     <img
-      src="https://img.shields.io/badge/smyang0220@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/smyang0220@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </div>
 
