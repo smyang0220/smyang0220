@@ -22,7 +22,7 @@
 <a href="https://www.instagram.com/sheep._.hy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=양희태&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smyang0220&layout=compact)
 <!--
 **smyang0220/smyang0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
