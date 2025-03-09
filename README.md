@@ -15,7 +15,6 @@
 
 ## Tech Stack
 <div align="start">
-<a href="https://www.android.com/intl/ko_kr/"><img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp;
 <a href="https://developer.apple.com/kr/"><img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>&nbsp;
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp;
 <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp;
